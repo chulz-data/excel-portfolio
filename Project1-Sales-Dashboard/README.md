@@ -7,5 +7,5 @@ Analyze sales data to identify trends, performance levels, and business insights
 - Microsoft Excel
 
 Files
-- sales_analysis_day1.xlsx
-- sales_analysis_day2.xlsx
+sales_data.csv
+sales_data.xlsx
